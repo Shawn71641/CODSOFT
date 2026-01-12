@@ -22,6 +22,7 @@ class Currency {
                 double amount = sc.nextDouble();
                 
                 // API URL
+                
                 String apiUrl = "https://open.er-api.com/v6/latest/" + base;
                 
                 URL url = new URL(apiUrl);
