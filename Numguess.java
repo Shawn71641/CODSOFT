@@ -1,6 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-
 class Numguess {
     public static void main(String[] args) {
 
